@@ -1,6 +1,6 @@
 <h1>bom writer</h1>
 <h2>automated .csv bill of materials generator and .md table converter for github repos.</h2>
-<h3 align="center"><img src="assets/newbom.gif" width=600></h3>
+<h3 align="center"><img src="assets/newbom.gif" width=400></h3>
 <h3>about the project</h3>
 <p>after doing 4 hardware projects i decided that making bills of materials is too much effort and can be automated "decently simply" - so i will be making a .csv bill of materials writer and a converter into .md for my future github repos :)</p>
 <hr>
