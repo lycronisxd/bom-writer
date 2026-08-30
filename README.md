@@ -1,6 +1,6 @@
 <h1>bom writer</h1>
 <h2>automated .csv bill of materials generator and .md table converter for github repos.</h2>
-
+<h3 align="center"><img src="assets/newbom.gif" width=600></h3>
 <h3>about the project</h3>
 <p>after doing 4 hardware projects i decided that making bills of materials is too much effort and can be automated "decently simply" - so i will be making a .csv bill of materials writer and a converter into .md for my future github repos :)</p>
 <hr>
@@ -31,6 +31,7 @@ what would you like to do?
 3) exit the program
 ```
 by choosing the first option, the intuitive menu system will help you navigate creating a new bill of materials!
+<h3 align="center"><img src="assets/newbom.gif" width=600></h3>
 <hr>
 <h3>converting a bill of materials to markdown</h3>
 <p>run the program with:</p>
@@ -39,7 +40,7 @@ by choosing the first option, the intuitive menu system will help you navigate c
 bom-writer
 ```
 by choosing the second option and selecting the file to convert, the program instantly converts the .csv file to .md
-
+<h3 align="center"><img src="assets/conversion.gif" width=600></h3>
 <b>note: the converter may not work with existing boms as the formatting must be in the way that bom-writer already processes it - so it is best practice to both make the .csv with bom-writer and convert it with bom-writer :)</b>
 
 <hr>
